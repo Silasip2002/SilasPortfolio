@@ -1,0 +1,14 @@
+{
+    "Education":{
+        "shcool1":{
+            "name":"City University of Hong Kong",
+            "year":"Sep 2018 – 2020",
+            "subject":"Bachelor’s degree of Science in Computer Science"
+        },
+        "school2":{
+            "name":"Hong Kong Institute of Vocational Education (Tsing Yi)",
+            "year":"Sep 2016 - 2018",
+            "subject":"Higher Diploma in Software Engineering"
+        }
+    }
+}
