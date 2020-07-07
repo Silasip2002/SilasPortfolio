@@ -12,7 +12,7 @@ function App() {
     <>
       <CssBaseline/>
       <Router>
-        <Route exact path="/" component={Home}/>
+        <Route  path="/SilasPortfolio" component={Home}/>
         <Route  path="/resume" component={Resume}/>
       </Router>
   </>
