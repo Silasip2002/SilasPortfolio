@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/SilasPortfolio/static/css/main.c76e73fb.chunk.css",
-    "main.js": "/SilasPortfolio/static/js/main.5e950041.chunk.js",
-    "main.js.map": "/SilasPortfolio/static/js/main.5e950041.chunk.js.map",
+    "main.js": "/SilasPortfolio/static/js/main.2c401309.chunk.js",
+    "main.js.map": "/SilasPortfolio/static/js/main.2c401309.chunk.js.map",
     "runtime-main.js": "/SilasPortfolio/static/js/runtime-main.81aacf1c.js",
     "runtime-main.js.map": "/SilasPortfolio/static/js/runtime-main.81aacf1c.js.map",
     "static/js/2.b5c28455.chunk.js": "/SilasPortfolio/static/js/2.b5c28455.chunk.js",
     "static/js/2.b5c28455.chunk.js.map": "/SilasPortfolio/static/js/2.b5c28455.chunk.js.map",
     "index.html": "/SilasPortfolio/index.html",
-    "precache-manifest.c60fbd66c02fe85e0ffaac09d4010193.js": "/SilasPortfolio/precache-manifest.c60fbd66c02fe85e0ffaac09d4010193.js",
+    "precache-manifest.93cd3e2a98a665e13c035dc9329fc541.js": "/SilasPortfolio/precache-manifest.93cd3e2a98a665e13c035dc9329fc541.js",
     "service-worker.js": "/SilasPortfolio/service-worker.js",
     "static/css/main.c76e73fb.chunk.css.map": "/SilasPortfolio/static/css/main.c76e73fb.chunk.css.map",
     "static/js/2.b5c28455.chunk.js.LICENSE.txt": "/SilasPortfolio/static/js/2.b5c28455.chunk.js.LICENSE.txt",
@@ -19,6 +19,6 @@
     "static/js/runtime-main.81aacf1c.js",
     "static/js/2.b5c28455.chunk.js",
     "static/css/main.c76e73fb.chunk.css",
-    "static/js/main.5e950041.chunk.js"
+    "static/js/main.2c401309.chunk.js"
   ]
 }
