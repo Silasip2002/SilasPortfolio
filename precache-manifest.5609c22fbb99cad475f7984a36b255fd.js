@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "2ad84d0aa51bf74f158e1801fc4bc188",
+    "revision": "71d1106ad1176c193891630f024ce02c",
     "url": "/SilasPortfolio/index.html"
   },
   {
-    "revision": "5e80500acce610187351",
+    "revision": "aa4e15ef10ab14e629c5",
     "url": "/SilasPortfolio/static/css/main.c76e73fb.chunk.css"
   },
   {
-    "revision": "659eb6e9b07cba94030b",
-    "url": "/SilasPortfolio/static/js/2.b5c28455.chunk.js"
+    "revision": "29cb81591f1eba5e3616",
+    "url": "/SilasPortfolio/static/js/2.0b8dda34.chunk.js"
   },
   {
     "revision": "84f48c9a090ba2f8cc4a11e48dd3dad0",
-    "url": "/SilasPortfolio/static/js/2.b5c28455.chunk.js.LICENSE.txt"
+    "url": "/SilasPortfolio/static/js/2.0b8dda34.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "5e80500acce610187351",
-    "url": "/SilasPortfolio/static/js/main.f9dcea0d.chunk.js"
+    "revision": "aa4e15ef10ab14e629c5",
+    "url": "/SilasPortfolio/static/js/main.e452c436.chunk.js"
   },
   {
     "revision": "8bdeca5e5e680f2996b1",
@@ -30,5 +30,13 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "651961740064785c52989ba4e520961a",
     "url": "/SilasPortfolio/static/media/cityu.65196174.jpg"
+  },
+  {
+    "revision": "d4b65d6a0bec4b21aba4180c78e6f125",
+    "url": "/SilasPortfolio/static/media/fyp.d4b65d6a.jpg"
+  },
+  {
+    "revision": "f82ee3706771d801341e7d348f972d65",
+    "url": "/SilasPortfolio/static/media/porfotlioImage.f82ee370.jpg"
   }
 ]);
