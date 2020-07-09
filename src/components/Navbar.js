@@ -47,18 +47,18 @@ const menuItems = [
     {
         listIcon: <Home/>,
         listText:"Home",
-        listPath:"/"
+        listPath:"/SilasPortfolio"
     },
     {
         listIcon: <AssignmentInd/>,
         listText:"Resume",
         listPath:"/resume"
     },
-    // {
-    //     listIcon: <Apps/>,
-    //     listText:"Portfolio",
-    //     listPath:"/portfolio"
-    // },
+    {
+        listIcon: <Apps/>,
+        listText:"Portfolio",
+        listPath:"/portfolio"
+    },
     // {
     //     listIcon: <ContactMail/>,
     //     listText:"Contacts",
@@ -94,7 +94,6 @@ export const Navbar = () => {
             </List>
         </Box>
     )
-
 
     return (
     <>
